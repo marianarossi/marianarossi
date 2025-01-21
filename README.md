@@ -1,15 +1,17 @@
-## 🌐 Sobre Mim
+## 🌐 About me
 Junior Dev 
 Full-stack
 
-## 🔧 Projetos em Destaque:
+## 🔧 Featured projects:
 ### dotNet API: 
-API em .netCore completa com todas as operações de CRUD, conexão com banco de dados SQLServer, integração com Angular (frontEnd) também disponível nos repositórios.
+.NET Core API with CRUD operations, SQL Server database connection, and integration with Angular front-end (also available in my profile).
 ### Handcrafted Ceramics: 
-Um site que demonstra minhas habilidades no front-end de desenvolvimento web. 
+A website showcasing my front-end web development skills.
 
-## 📫 Redes
+## 📫 Contact me
 Email: [wmarianarossi@gmail.com](mailto:wmarianarossi@gmail.com).
+
+## Stats
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
