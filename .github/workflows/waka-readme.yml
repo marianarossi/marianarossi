@@ -21,3 +21,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_LOC_CHART: "False"
