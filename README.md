@@ -1,6 +1,6 @@
 ## 🌐 About me
-Junior Dev 
 Full-stack
+Junior Dev 
 
 ## 🔧 Featured projects:
 ### dotNet API: 
