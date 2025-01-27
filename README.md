@@ -1,15 +1,14 @@
 ## 🌐 About me
 Full-stack
-Junior Dev 
+Junior Dev. 
+
+Java, Angular, React, dotnet.
 
 ## 🔧 Featured projects:
 ### dotNet API: 
 .NET Core API with CRUD operations, SQL Server database connection, and integration with Angular front-end (also available in my profile).
 ### Handcrafted Ceramics: 
 A website showcasing my front-end web development skills.
-
-## 📫 Contact me
-Email: [wmarianarossi@gmail.com](mailto:wmarianarossi@gmail.com).
 
 ## Stats
 
