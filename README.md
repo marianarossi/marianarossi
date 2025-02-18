@@ -4,6 +4,11 @@ Junior Dev.
 
 Java, Angular, React, dotnet.
 
+## Favorite Technologies
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,react,cs,angular,typescript,javascript,aws,bootstrap,docker&perline=3&titles=true)
+
+
 ## 🔧 Featured projects:
 ### dotNet API: 
 .NET Core API with CRUD operations, SQL Server database connection, and integration with Angular front-end (also available in my profile).
