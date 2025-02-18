@@ -6,7 +6,7 @@ Java, Angular, React, dotnet.
 
 ## Favorite Technologies
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,react,cs,angular,typescript,javascript,aws,bootstrap,docker&perline=3&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,react,cs,angular,typescript,javascript,aws,dotnet,docker&perline=3&titles=true)
 
 
 ## 🔧 Featured projects:
