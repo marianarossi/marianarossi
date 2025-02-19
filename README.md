@@ -1,19 +1,29 @@
 ## 🌐 About me
-Full-stack
-Junior Dev. 
+Back-end Junior dev.
 
-Java, Angular, React, dotnet.
+Currently working as a Java + Angular Junior developer, maintaining and upgrading a ERP (Enterprise Resource Planning) system.
 
 ## Favorite Technologies
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,react,cs,angular,typescript,javascript,aws,dotnet,docker&perline=3&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,react,angular,typescript,javascript,cs,dotnet&perline=4&titles=true)
+
+## Tools
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gitlab,git,docker&perline=4&titles=true)
+
+## Favorite IDEs
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,webstorm&perline=3&titles=true)
 
 
-## 🔧 Featured projects:
-### dotNet API: 
-.NET Core API with CRUD operations, SQL Server database connection, and integration with Angular front-end (also available in my profile).
-### Handcrafted Ceramics: 
-A website showcasing my front-end web development skills.
+## Featured projects: 
+
+### :sparkles: [ceramics-ecommerce:](https://github.com/marianarossi/ceramics-ecommerce-API)
+This is my ceramics ecommerce application. It was made using Java with Spring in the backend and React in the front end, along with mySQL database connection. You can list products, filter by category, add items to cart, finish order, manage addresses, and more.
+
+### :trophy: [product-crud:](https://github.com/marianarossi/.netCore-product-webAPI)
+This is a CRUD (create, read, update and delete) product project, built with C# using .NET core in the backend and Angular in the frontend, plus SQL Server database connection. The user can create, list, update and delete products. 
+
 
 ## Stats
 
