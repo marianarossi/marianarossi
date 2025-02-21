@@ -7,7 +7,7 @@ Currently working as a Java + Angular Junior developer, maintaining and upgradin
 ## Badges
 
 <div style="display: inline_block">
-  <img src="https://github.com/user-attachments/assets/c0047bee-554f-44bd-a5fb-2d18dc65c3ac"/>
+  <a href="https://stackoverflow.com/"><img src="https://github.com/user-attachments/assets/c0047bee-554f-44bd-a5fb-2d18dc65c3ac"></img></a>
 </div>
 
 ## Favorite Technologies
