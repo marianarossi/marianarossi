@@ -7,7 +7,7 @@ Currently working as a Java + Angular Junior developer, maintaining and upgradin
 ## Badges
 
 <div style="display: inline_block">
-  <a href="https://stackoverflow.com/"><img src="https://github.com/user-attachments/assets/c0047bee-554f-44bd-a5fb-2d18dc65c3ac"></img></a>
+  <a href="https://www.credly.com/badges/bc4739f2-3a6a-4965-9292-0904b55d9652/public_url"><img src="https://github.com/user-attachments/assets/c0047bee-554f-44bd-a5fb-2d18dc65c3ac"></img></a>
 </div>
 
 ## Favorite Technologies
