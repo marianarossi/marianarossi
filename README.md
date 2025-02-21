@@ -16,6 +16,16 @@ Currently working as a Java + Angular Junior developer, maintaining and upgradin
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,webstorm&perline=3&titles=true)
 
 
+## Badges
+
+<div style="display: inline_block">
+  <img src="https://github.com/user-attachments/assets/c0047bee-554f-44bd-a5fb-2d18dc65c3ac"/>
+</div>
+<br>
+<div align="left">
+  <a href="https://www.credly.com/badges/bc4739f2-3a6a-4965-9292-0904b55d9652/public_url">Badge Link</a>
+</div>
+
 ## Featured projects: 
 
 ### :sparkles: [ceramics-ecommerce:](https://github.com/marianarossi/ceramics-ecommerce-API)
