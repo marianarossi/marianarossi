@@ -8,7 +8,9 @@ Currently working as a Java + Angular Junior developer, maintaining and upgradin
 
 <div style="display: inline_block">
   <a href="https://www.credly.com/badges/bc4739f2-3a6a-4965-9292-0904b55d9652/public_url"><img src="https://github.com/user-attachments/assets/0c2e9028-389c-426c-b849-4bd29abbc0cb"></img></a>
-  <a href=https://www.credly.com/badges/b0f4b2f6-34ec-4c0b-880f-cde76b902026/public_url"><img src="https://github.com/user-attachments/assets/07231ffe-f6b7-424a-bcc4-543fa6b2d97f"></img></a>
+  <a href="https://www.credly.com/badges/b0f4b2f6-34ec-4c0b-880f-cde76b902026/public_url"><img src="https://github.com/user-attachments/assets/07231ffe-f6b7-424a-bcc4-543fa6b2d97f"></img></a>
+  <a href="https://www.credly.com/badges/b0f4b2f6-34ec-4c0b-880f-cde76b902026/public_url"><img src="https://github.com/user-attachments/assets/8d692ed8-6378-45f1-953d-ee95101adbcf"></img></a>
+
 </div>
 
 ## Favorite Technologies
