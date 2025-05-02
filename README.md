@@ -37,8 +37,6 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2056%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -57,20 +55,13 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 46 mins        ███████████████░░░░░░░░░░   60.32 % 
-XML                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-SQL                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 48 mins        ███████████████░░░░░░░░░░   61.33 % 
-DBeaver                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Sublime Text             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Eclipse                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
