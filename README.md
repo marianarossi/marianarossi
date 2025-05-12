@@ -1,7 +1,7 @@
 ## 🌐 About me
 Back-end Junior dev.
 
-Currently working as a Java + Angular Junior developer, maintaining and upgrading a ERP (Enterprise Resource Planning) system.
+Currently working as a Java + Angular developer, maintaining and upgrading a ERP (Enterprise Resource Planning) system.
 
 
 ## Badges
