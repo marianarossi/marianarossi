@@ -2,6 +2,7 @@
 Full-stack dev.
 
 Currently working as a Java + Angular developer, maintaining and upgrading a ERP (Enterprise Resource Planning) system.
+
 What I'm working with right now: Java | Angular | Ext Js | Flutter | PostgreSQL
 
 
