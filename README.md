@@ -39,7 +39,34 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.2%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌃 Evening                86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Java                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
