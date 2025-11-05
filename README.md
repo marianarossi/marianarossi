@@ -39,7 +39,7 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.2%20thousand%20lines%20of%20code-blue)
 
@@ -59,13 +59,19 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Python                   15 mins             ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Git Config               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+VS Code                  54 mins             ████████████████████████░   95.99 % 
+WebStorm                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 
