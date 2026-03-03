@@ -59,14 +59,13 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   9 mins              ██████████████████░░░░░░░   71.22 % 
-Java                     3 mins              ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Kotlin                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
