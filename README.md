@@ -43,35 +43,5 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.20%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌃 Evening                86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
-🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   55 mins             ███████████░░░░░░░░░░░░░░   45.74 % 
-Java                     31 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-🔥 Editors: 
-VS Code                  1 hr 13 mins        ███████████████░░░░░░░░░░   61.22 % 
-IntelliJ IDEA            46 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
-
-💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
