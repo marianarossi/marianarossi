@@ -59,18 +59,17 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   55 mins             ███████████░░░░░░░░░░░░░░   45.74 % 
-Java                     31 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Java                     31 mins             █████████████████░░░░░░░░   68.15 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Kotlin                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        ███████████████░░░░░░░░░░   61.22 % 
-IntelliJ IDEA            46 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+IntelliJ IDEA            46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 
