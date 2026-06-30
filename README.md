@@ -41,15 +41,15 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.11%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.20%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-🌆 Daytime                49 commits          ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌃 Evening                86 commits          ███████████░░░░░░░░░░░░░░   44.56 % 
-🌙 Night                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌃 Evening                86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 ```
 
 
