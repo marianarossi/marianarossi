@@ -39,7 +39,9 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.20%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -66,6 +68,12 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
