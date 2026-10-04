@@ -43,15 +43,15 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.20%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌃 Evening                86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
-🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌃 Evening                95 commits          ███████████░░░░░░░░░░░░░░   45.02 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
 
