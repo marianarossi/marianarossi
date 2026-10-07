@@ -43,15 +43,15 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.70%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-🌃 Evening                95 commits          ███████████░░░░░░░░░░░░░░   45.02 % 
-🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌃 Evening                95 commits          ███████████░░░░░░░░░░░░░░   44.81 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 ```
 
 
@@ -61,18 +61,17 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               18 mins             ██████████░░░░░░░░░░░░░░░   39.78 % 
-Bash                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Text                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-GitIgnore file           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript               37 mins             ██████████████░░░░░░░░░░░   55.98 % 
+Bash                     29 mins             ███████████░░░░░░░░░░░░░░   43.78 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-WebStorm                 44 mins             █████████████████████████   98.51 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+WebStorm                 1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
