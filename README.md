@@ -39,19 +39,19 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.16%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.61%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-🌃 Evening                95 commits          ███████████░░░░░░░░░░░░░░   44.81 % 
-🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌞 Morning                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌃 Evening                95 commits          ███████████░░░░░░░░░░░░░░   44.60 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 ```
 
 
@@ -61,17 +61,17 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               37 mins             ██████████████░░░░░░░░░░░   55.98 % 
-Bash                     29 mins             ███████████░░░░░░░░░░░░░░   43.78 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Bash                     24 mins             ██████████████░░░░░░░░░░░   55.71 % 
+JavaScript               19 mins             ███████████░░░░░░░░░░░░░░   43.93 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 7 mins         █████████████████████████   100.00 % 
+WebStorm                 44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
