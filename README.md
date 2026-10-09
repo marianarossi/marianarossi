@@ -39,9 +39,9 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,11 +61,11 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     24 mins             ██████████████░░░░░░░░░░░   55.71 % 
-JavaScript               19 mins             ███████████░░░░░░░░░░░░░░   43.93 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Bash                     24 mins             ██████████████░░░░░░░░░░░   55.65 % 
+JavaScript               19 mins             ███████████░░░░░░░░░░░░░░   43.89 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
 WebStorm                 44 mins             █████████████████████████   100.00 % 
