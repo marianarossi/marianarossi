@@ -39,9 +39,9 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,23 +61,40 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     24 mins             ██████████████░░░░░░░░░░░   55.65 % 
-JavaScript               19 mins             ███████████░░░░░░░░░░░░░░   43.89 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               36 mins             █████████░░░░░░░░░░░░░░░░   34.32 % 
+HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Bash                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+GitIgnore file           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-WebStorm                 44 mins             █████████████████████████   100.00 % 
+WebStorm                 52 mins             █████████████░░░░░░░░░░░░   50.16 % 
+Claude Code              52 mins             ████████████░░░░░░░░░░░░░   49.84 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 58 mins (55.8%)
+
+✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 126,656 Input Tokens, 59,972 Output Tokens
+
+💵 $2.56 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 9 AI Prompts
+
+Opus                     103 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
