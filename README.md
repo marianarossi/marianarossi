@@ -61,40 +61,19 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     27 mins             ███████████░░░░░░░░░░░░░░   45.18 % 
-JavaScript               16 mins             ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-GitIgnore file           6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              52 mins             ██████████████████████░░░   86.70 % 
-WebStorm                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (97.06%)
-
-✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 126,656 Input Tokens, 59,972 Output Tokens
-
-💵 $3.18 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 9 AI Prompts
-
-Opus                     153 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
