@@ -39,9 +39,9 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,19 +61,40 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
+JavaScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+GDScript3                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              4 hrs 43 mins       ██████████████████████░░░   89.42 % 
+WebStorm                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 59 mins (94.69%)
+
+✍️ 6,495 lines written by AI, 1 lines written by hand (99.98% AI-written)
+
+🔤 1,559,880 Input Tokens, 791,044 Output Tokens
+
+💵 $50.21 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 65 AI Prompts
+
+Opus                     6,640 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,264 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.59% of changed lines were hand-edited
 ```
 
 
