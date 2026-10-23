@@ -39,9 +39,9 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.61%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,40 +61,40 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-JavaScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-GDScript3                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+GDScript3                1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+JavaScript               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 43 mins       ██████████████████████░░░   89.42 % 
-WebStorm                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Claude Code              6 hrs 14 mins       ███████████████████████░░   91.74 % 
+WebStorm                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (94.69%)
+⏱ AI Coding Time: 6 hrs 31 mins (95.89%)
 
-✍️ 6,495 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 8,064 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 1,559,880 Input Tokens, 791,044 Output Tokens
+🔤 2,080,201 Input Tokens, 984,653 Output Tokens
 
-💵 $50.21 Estimated AI Cost This Week
+💵 $63.33 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 65 AI Prompts
+🧠 12 AI Sessions, 75 AI Prompts
 
-Opus                     6,640 lines         █████████████████████████   100.00 % 
+Opus                     8,277 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,264 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.59% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 1,126 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 
