@@ -61,40 +61,40 @@ This is a CRUD (create, read, update and delete) product project, built with C# 
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-GDScript3                1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-JavaScript               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+GDScript3                2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Markdown                 2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+JavaScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 14 mins       ███████████████████████░░   91.74 % 
-WebStorm                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Claude Code              9 hrs 23 mins       ███████████████████████░░   93.49 % 
+WebStorm                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 💻 Operating System: 
-Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 31 mins (95.89%)
+⏱ AI Coding Time: 9 hrs 40 mins (96.29%)
 
-✍️ 8,064 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 12,472 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 2,080,201 Input Tokens, 984,653 Output Tokens
+🔤 3,540,721 Input Tokens, 1,459,375 Output Tokens
 
-💵 $63.33 Estimated AI Cost This Week
+💵 $92.99 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 75 AI Prompts
+🧠 17 AI Sessions, 107 AI Prompts
 
-Opus                     8,277 lines         █████████████████████████   100.00 % 
+Opus                     12,656 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,126 characters per prompt
+📄 Detailed Prompter — average 1,477 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 
